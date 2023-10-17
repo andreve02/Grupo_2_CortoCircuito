@@ -28,8 +28,11 @@ Short Circuit Store esta conformado por grandes desarrolladores con propositos y
 
 Short Circuit Team:
 - Andres Vega: Project Manager.
-  Joven desarrollador con altas habilidades de liderazgo y organización, capacidad de comunicarse de manera eficiente y eficaz, porque conecto a todas las partes del proyecto y me relaciono con el cliente. Tengo 26 años, soy dinamico y proactivo, amante de los animales y de la tecnología. 
-- 
+Joven desarrollador con altas habilidades de liderazgo y organización, capacidad de comunicarse de manera eficiente y eficaz, porque conecto a todas las partes del proyecto y me relaciono con el cliente. Tengo 26 años, soy dinamico y proactivo, amante de los animales y de la tecnología. 
+- Luis
+- Alejandro
+- Jair
+- Anthony Lan: 
 
 # Conctactanos:
 
