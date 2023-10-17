@@ -17,4 +17,8 @@
   - SONY
   - WESTYNHOUSE
   - ETC ETC ETCT
-  - 
+
+
+
+# Desarolladores
+Andres Vega  
