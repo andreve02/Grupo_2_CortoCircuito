@@ -4,12 +4,13 @@
   Somo una empresa con experiencia en tecnología, dedicados a la venta del detal y por mayor de productos electronicos. etc etc etc etc
 
 
-  Tipo de productos:
-  -LAVADORAS
-  -ELECTODOMESTICOS
+  # Tipo de productos:
+  
+  - LAVADORAS
+  - ELECTODOMESTICOS
   -
 
-  Marcas en Venta:
+ # Marcas en Venta:
   - SAMSUMG
   - SANKEY
   - PANASONIC
