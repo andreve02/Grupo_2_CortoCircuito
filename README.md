@@ -6,11 +6,11 @@
 
   # Tipo de productos:
   
-  - Audífonos (INALAMBRICOS Y CON CABLE).
-  - Cargadores.
-  - Accesorios de Celular (COVERS, POPSOCKER, PROTECTORES DE PANTALLAS Y DE CAMARA TARSERA).
-  - Bocinas inalambricas.
-  - Reloj Inteligente. 
+  - **Audífonos** (INALAMBRICOS Y CON CABLE).
+  - **Cargadores** (tipo B, C, APPLE).
+  - **Accesorios de Celular** (COVERS, POPSOCKER, PROTECTORES DE PANTALLAS Y DE CAMARA TARSERA).
+  - **Bocinas inalambricas.**
+  - **Reloj Inteligente.** 
 
  # Marcas en Venta:
   - SAMSUMG
