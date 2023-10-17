@@ -20,7 +20,7 @@
   - HONOR
   - TECNO
 
-# Política 
+# Política de Privacidad
 
 
 # Desarolladores
