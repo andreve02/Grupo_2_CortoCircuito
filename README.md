@@ -1,26 +1,27 @@
 # Short Circuit Store
 
   # Quienes Somos?:
-  Somo una Tienda virtual con experiencia en tecnología, dedicados a la venta del detal y por mayor de productos electronicos. etc etc etc etc
+  Somos una Tienda virtual con experiencia en tecnología, dedicados a la venta del detal y por mayor de productos electronicos. etc etc etc etc
 
 
   # Tipo de productos:
   
-  - LAVADORAS
-  - ELECTODOMESTICOS
-  -
+  - Audífonos (INALAMBRICOS Y CON CABLE).
+  - Cargadores.
+  - Accesorios de Celular (COVERS, POPSOCKER, PROTECTORES DE PANTALLAS Y DE CAMARA TARSERA).
+  - Bocinas inalambricas.
+  - Reloj Inteligente. 
 
  # Marcas en Venta:
   - SAMSUMG
-  - SANKEY
-  - PANASONIC
-  - SONY
-  - WESTYNHOUSE
-  - ETC ETC ETCT
+  - HUAWEI
+  - REDMI
+  - APPLE
+  - HONOR
+  - TECNO
 
 # Política 
 
 
-
 # Desarolladores
-Andres Vega  
+Andres Vega: Desarrollador   
