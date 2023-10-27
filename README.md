@@ -24,7 +24,7 @@
 Disponemos de un plazo para devoluciones de a partir de la fecha en que la paquetería entregó tu pedido en el domicilio indicado al realizar la compra. Debes notificar acerca de la devolución antes de que se cumplan los a través de alguno de nuestros canales de atención:
 
 –En nuestra tienda Ubicado en la provincia de Colón, presentando tu factura o ticket, uno de nuestros asesores de venta te ayudará en el proceso. 
-– Solicitar la devolución dentro del plazo de devolución por correo electrónico.
+-Solicitar la devolución dentro del plazo de devolución por correo electrónico.
 
 #### Condiciones.
 Para ser elegible para una devolución, el artículo debe:
