@@ -23,11 +23,13 @@
 # Política de Devoluciones
 Disponemos de un plazo para devoluciones de a partir de la fecha en que la paquetería entregó tu pedido en el domicilio indicado al realizar la compra. Debes notificar acerca de la devolución antes de que se cumplan los a través de alguno de nuestros canales de atención:
 
-–En nuestra tienda Ubicado en la provincia de Colón, presentando tu factura o ticket, uno de nuestros asesores de venta te ayudará en el proceso. – Solicitar la devolución dentro del plazo de devolución por correo electrónico.
-Condiciones.
+–En nuestra tienda Ubicado en la provincia de Colón, presentando tu factura o ticket, uno de nuestros asesores de venta te ayudará en el proceso. 
+– Solicitar la devolución dentro del plazo de devolución por correo electrónico.
 
+#### Condiciones.
 Para ser elegible para una devolución, el artículo debe:
-– Estar sin usar y en las mismas condiciones en que lo recibiste. También debe estar en su embalaje original. – Existen varios tipos de bienes que están exentos de ser devueltos. Productos perecederos tales como alimentos, flores, periódicos o revistas no pueden ser devueltos. Tampoco aceptamos productos que son bienes íntimos o sanitarios, materiales peligrosos, o líquidos o gases inflamables.
+– Estar sin usar y en las mismas condiciones en que lo recibiste. También debe estar en su embalaje original. 
+– Existen varios tipos de bienes que están exentos de ser devueltos. Productos perecederos tales como alimentos, flores, periódicos o revistas no pueden ser devueltos. Tampoco aceptamos productos que son bienes íntimos o sanitarios, materiales peligrosos, o líquidos o gases inflamables.
 
 
 
