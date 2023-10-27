@@ -41,6 +41,7 @@ Joven desarrollador con altas habilidades de liderazgo y organización, capacida
 - Anthony Lan: 
 
 # Conctactanos:
+shortcircuitstore@gmail.com
 
 # Referencias:
 - [Jony Cell](https://www.jonycell.com/)
