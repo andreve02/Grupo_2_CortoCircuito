@@ -53,5 +53,5 @@ shortcircuitstore02@gmail.com
 # Referencias:
 - [Jony Cell](https://www.jonycell.com/)
 - [PanaFoto](https://www.panafoto.com/catalogsearch/result/?q=audiofoto%20catalogo%20de%20componentes&page=50)
-- [Mas Movil] (https://www.masmovilpanama.com/residencial/paquetes-internet?gbraid=0AAAAAC6reMaMzVI6xiilAeKPy4Jy81kjW&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFGdl5FX4LakBrZOB5IC9_9C013nmX-yQYCV_T4XBjEu-l2r33SMQQRoCjkcQAvD_BwE)
+- [Mas Movil](https://www.masmovilpanama.com/residencial/paquetes-internet?gbraid=0AAAAAC6reMaMzVI6xiilAeKPy4Jy81kjW&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFGdl5FX4LakBrZOB5IC9_9C013nmX-yQYCV_T4XBjEu-l2r33SMQQRoCjkcQAvD_BwE)
 
