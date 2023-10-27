@@ -38,5 +38,5 @@ Joven desarrollador con altas habilidades de liderazgo y organización, capacida
 
 # Referencias:
 - [Jony Cell](https://www.jonycell.com/)
-- [Mi Cell PTY](https://micellpty.com/)
+- [PanaFoto](https://www.panafoto.com/catalogsearch/result/?q=audiofoto%20catalogo%20de%20componentes&page=50)
 
