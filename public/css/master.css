@@ -1,0 +1,52 @@
+div.encabezado{
+    background-color:whitesmoke; 
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+}
+
+div.logo{ 
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+    padding: 1%;
+}
+
+.barraNavegacion{
+    color:black;
+    width: 30%;
+    display: flex;
+    justify-content:center;
+}
+
+.barraNavegacion ul{
+    display: flex;
+    justify-content:center; 
+}
+
+.boton{
+    background-color:gold;
+    display: flex;
+    align-items: flex-end;
+    padding: 1%;
+}
+.titulo{
+    color:maroon;
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: inherit;
+    font-size: 60px;
+    padding: 0%
+    
+}
+.subtitulo{
+    color: black;
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: inherit;
+}
+
+.pieDePagina{
+    background-color:whitesmoke;
+
+}
