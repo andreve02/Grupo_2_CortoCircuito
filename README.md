@@ -1,7 +1,7 @@
 # Short Circuit Store
 
   # Quienes Somos?:
-  Somos una Tienda virtual con experiencia en tecnología, dedicados a la venta del detal y por mayor de productos electronicos. etc etc etc etc
+  Somos una Tienda virtual con experiencia en tecnología, dedicados a la venta del detal y por mayor de productos electronicos.
 
 
   # Tipo de productos:
