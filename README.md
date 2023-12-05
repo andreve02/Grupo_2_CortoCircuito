@@ -37,7 +37,7 @@ Para ser elegible para una devolución, el artículo debe:
 
 
 # Desarolladores
-Short Circuit Store esta conformado por grandes desarrolladores con propositos y visiones en dar un servicio tecnologico online de calidad, dandole una pagina web del cual tengas la facilidad de encontrar el productor que necesitas.
+Short Circuit Store esta conformado por grandes desarrolladores con propositos y visiones en dar un servicio tecnologico y ventas online de calidad, dandole una pagina web del cual tengas la facilidad de encontrar el productor que necesitas.
 
 ### Short Circuit Team:
 - Andres Vega: Project Manager.
