@@ -35,3 +35,8 @@ app.get ('/ingresa', (req, res)=>{
 app.get ('/misCompras', (req, res)=>{
     res. sendFile(path.resolve(__dirname, './views/misCompras.html'))
 })
+
+//ruta para la pagina web de Politica de Privacidad
+app.get ('/politicaDePrivacidad', (req, res)=>{
+    res. sendFile(path.resolve(__dirname, './views/politicaDePrivacidad.html'))
+})

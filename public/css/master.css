@@ -1,35 +1,42 @@
 div.encabezado{
     background-color:whitesmoke; 
     display: flex;
-    justify-content: center;
-    padding: 2%;
+    padding: 1em;
 }
-
+/*preguntar porque al poner 0% se pone el logo en el centro y al poner 100% se va a la izquierda*/
 div.logo{ 
-    width: 50%;
+    width: 100%;
     display: flex;
-    justify-content: flex-start;
-    padding: 1%;
+    justify-content:left;
+    padding: 0%;
+}
+body{
+    background-image: url('../img/fondoDePagina.jpeg');
+    background-size: cover;
+
+}
+.barraNavegacionLista{
+    color:maroon;
+    font-weight: bold;
+    width: 100px;
+    height: 40px;
+    
+   
 }
 
-.barraNavegacion{
-    color:black;
-    width: 30%;
-    display: flex;
-    justify-content:center;
+
+li{
+display: inline-flex;
+font-weight: bold;
 }
 
-.barraNavegacion ul{
-    display: flex;
-    justify-content:center; 
-}
-
-.boton{
-    background-color:gold;
+div.boton{
+    background-color:#E2C47C;
     display: flex;
     align-items: flex-end;
     padding: 1%;
 }
+
 .titulo{
     color:maroon;
     text-align:center;
@@ -40,12 +47,51 @@ div.logo{
     
 }
 .subtitulo{
-    color: black;
+    color: white;
     text-align:center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: inherit;
 }
+div.bannerTitulo{
+    text-align: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-weight: bold;
+}
 
+ul#listado1 li{
+
+color: black;
+}
+
+.producto1{
+    display: flex;
+    justify-content: space-around;
+    background-color: #E2C47C;
+   
+}
+.productosOferta{
+    text-align:center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+}
+article.productos h2{
+    font-size: 40px;
+   
+}
+article.productos h3{
+    font-size: 20px;
+}
+article.productos p{
+    font-size: 15px;
+}
+h1.gamaAlta{
+    font-size: 35px;
+    text-align: center;
+    color: maroon;
+    font-weight: bold;
+}
 .pieDePagina{
     background-color:whitesmoke;
 
